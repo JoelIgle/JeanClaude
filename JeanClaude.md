@@ -1,4 +1,4 @@
-#Codi font
+# Codi font
 ```
 public class JeanClaude {
     public static boolean camio(int pes){
@@ -11,7 +11,7 @@ public class JeanClaude {
 
     }
 ```
-#Test
+# Test
 ```
 
 import org.junit.jupiter.api.Assertions;
