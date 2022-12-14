@@ -1,4 +1,20 @@
 '''
+
+public class JeanClaude {
+    public static boolean camio(int pes){
+        boolean pot = false;
+        if(pes <=750 && pes >= 500){
+            pot = true;
+        }
+        return pot;
+    }
+
+    }
+'''
+
+
+'''
+
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
