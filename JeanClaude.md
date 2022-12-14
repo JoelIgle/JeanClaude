@@ -1,4 +1,4 @@
-'''
+```
 
 public class JeanClaude {
     public static boolean camio(int pes){
@@ -10,10 +10,9 @@ public class JeanClaude {
     }
 
     }
-'''
+```
 
-
-'''
+```
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
@@ -77,4 +76,4 @@ public class JeanClaudeTest {
     }
     
 }
-'''
+```
